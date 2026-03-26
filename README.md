@@ -1,2 +1,15 @@
 # Software-Development-Series
 Let's start learning from zero to hero.
+## What is Programming?
+
+Programming = giving instructions to a computer.
+
+### 👉 Example:
+“Print my name” → computer will show your name
+
+## 💻 What is JavaScript?
+A programming language used in websites
+Makes websites interactive (buttons, forms, etc.)
+
+### 👉 Example:
+When you click a button and something happens → JavaScript
