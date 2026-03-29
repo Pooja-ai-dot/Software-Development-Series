@@ -1,4 +1,4 @@
-# Software-Development-Series
+# web-dev-learing
 Let's start learning from zero to hero.
 ## What is Programming?
 
