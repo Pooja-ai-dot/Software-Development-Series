@@ -13,3 +13,12 @@ Makes websites interactive (buttons, forms, etc.)
 
 ### 👉 Example:
 When you click a button and something happens → JavaScript
+## What is HTML?
+
+HTML (HyperText Markup Language) is used to create the structure of a webpage
+
+### Think like this:
+
+HTML = skeleton 🦴
+CSS = design 🎨
+JavaScript = brain 🧠
