@@ -22,3 +22,12 @@ HTML (HyperText Markup Language) is used to create the structure of a webpage
 HTML = skeleton 🦴
 CSS = design 🎨
 JavaScript = brain 🧠
+## What is CSS?
+
+CSS (Cascading Style Sheets) is used to design and style webpages
+
+### 👉 Example:
+
+Change colors 🎨
+Add spacing 📏
+Make things look attractive 😍
