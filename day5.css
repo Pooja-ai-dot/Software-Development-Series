@@ -1,0 +1,65 @@
+3 Ways to Add CSS
+🔹 1. Inline CSS (inside tag)
+<h1 style="color: blue;">Hello</h1>
+
+👉 Quick but not recommended for big projects
+
+🔹 2. Internal CSS (inside <style>)
+<style>
+  h1 {
+    color: red;
+  }
+</style>
+🔹 3. External CSS (BEST METHOD ⭐)
+
+👉 Create file: style.css
+
+<link rel="stylesheet" href="style.css">
+🎯 CSS Syntax
+selector {
+  property: value;
+}
+Example:
+h1 {
+  color: blue;
+}
+🎨 Common CSS Properties
+🔹 Colors
+h1 {
+  color: red;
+}
+🔹 Background
+body {
+  background-color: lightblue;
+}
+🔹 Font Size
+p {
+  font-size: 20px;
+}
+🔹 Text Align
+h1 {
+  text-align: center;
+}
+🔹 Border
+div {
+  border: 2px solid black;
+}
+🔹 Padding (inside space)
+div {
+  padding: 10px;
+}
+🔹 Margin (outside space)
+div {
+  margin: 20px;
+}
+🧱 Class & ID (VERY IMPORTANT)
+🔹 Class (can use multiple times)
+<p class="text">Hello</p>
+.text {
+  color: green;
+}
+🔹 ID (unique)
+<p id="main">Hello</p>
+#main {
+  color: red;
+}
