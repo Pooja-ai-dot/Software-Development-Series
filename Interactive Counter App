@@ -1,0 +1,24 @@
+## html
+``
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Interactive Counter App</title>
+    <link rel="stylesheet" href="s.css">
+</head>
+<body>
+    <div class="counter-container">
+        <h1>Counter App</h1>
+
+        <h2 id="count">0</h2>
+
+        <button onclick="Increase()">+</button>
+        <button onclick="Decrease()">-</button>
+        <button onclick="Reset()">Reset</button>
+    </div>
+    <script src="s.js"></script>
+</body>
+</html>
+``
